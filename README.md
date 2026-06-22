@@ -40,5 +40,5 @@ I am an **ICT & Software Development student** focused on building clean backend
 
 ### 📬 Connect With Me
 
-*   **LinkedIn:** [Your LinkedIn Profile Name](LINK_TO_YOUR_LINKEDIN)
-*   **Email:** your.email@example.com
+*   **LinkedIn:** [Merioth Riba](https://www.linkedin.com/in/merioth-riba-a035003b0?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+*   **Email:** meriothwangui141@gmail.com
